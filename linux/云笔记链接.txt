@@ -1,0 +1,18 @@
+/********************一些相关云笔记*********************/
+
+1.zybo下Ubuntu系统的安装
+http://note.youdao.com/noteshare?id=5eb328156e67549249007375ddcfcb01&sub=C23C45E803DC450195A53B5550795F99
+
+2.zybo下opencv编译
+http://note.youdao.com/noteshare?id=d6f0a6713a5cf4e9baeb5a0d62358a14&sub=0F69AD551E59444A85AADA7FD713F862
+
+3.zybo Ubuntu source文件
+http://note.youdao.com/noteshare?id=4bd511edadddfbe2d81b082153889cff&sub=065E563D36D948E6AAD08497610ED4D3
+
+4.虚拟机下Ubuntu14.04交叉编译环境安装
+http://note.youdao.com/noteshare?id=c763d64bdaeb189f1892897e63399007&sub=674FC0631E4E42B8AAF6D1DB6B4F7629
+
+5.关于linux内存空间映射
+http://blog.csdn.net/wangcong02345/article/details/52326083
+
+注:有已经装好opencv,配置好编译环境的系统镜像,由于文件太大无法上传.
